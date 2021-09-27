@@ -26,4 +26,5 @@ class MemberRepositoryTest {
 //        assertEquals(member, findMember);
 //    }
 
+
 }
